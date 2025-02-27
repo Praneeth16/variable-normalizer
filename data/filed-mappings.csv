@@ -1,0 +1,114 @@
+Source Field,Target Field,Category
+F_Name,First Name,Name Fields
+Frst_Name,First Name,Name Fields
+Given_Name,First Name,Name Fields
+LName,Last Name,Name Fields
+SurName,Last Name,Name Fields
+Family_Name,Last Name,Name Fields
+Cl_name,Client Name,Name Fields
+CustName,Client Name,Name Fields
+Customer_Full_Name,Client Name,Name Fields
+UserName,Username,Name Fields
+Usr_Name,Username,Name Fields
+CTY,City,Address Fields
+Town,City,Address Fields
+Cty_Nm,City,Address Fields
+Municipality,City,Address Fields
+Zip,Postal Code,Address Fields
+Postcode,Postal Code,Address Fields
+Pincode,Postal Code,Address Fields
+State_Code,State,Address Fields
+St,State,Address Fields
+Prov,Province,Address Fields
+County,Region,Address Fields
+Job id,Job_ID,Job & Employee Fields
+Job_ID,Job_ID,Job & Employee Fields
+Emp_ID,Employee ID,Job & Employee Fields
+EmpNo,Employee ID,Job & Employee Fields
+WorkerID,Employee ID,Job & Employee Fields
+Staff_Number,Employee ID,Job & Employee Fields
+HREmpID,Employee ID,Job & Employee Fields
+Title,Job Title,Job & Employee Fields
+Desig,Job Title,Job & Employee Fields
+Occupation,Job Title,Job & Employee Fields
+Department_Name,Department,Job & Employee Fields
+Dept,Department,Job & Employee Fields
+AcctNum,Account Number,Account & Financial Fields
+Acct_No,Account Number,Account & Financial Fields
+Account_ID,Account Number,Account & Financial Fields
+Cust_ID,Customer ID,Account & Financial Fields
+ClientNum,Customer ID,Account & Financial Fields
+CustomerCode,Customer ID,Account & Financial Fields
+Bal,Balance,Account & Financial Fields
+CurrBal,Balance,Account & Financial Fields
+Outstanding_Amt,Balance,Account & Financial Fields
+Trx_ID,Transaction ID,Account & Financial Fields
+TxnID,Transaction ID,Account & Financial Fields
+PaymentRef,Transaction ID,Account & Financial Fields
+Invoice_No,Invoice Number,Account & Financial Fields
+Inv_Num,Invoice Number,Account & Financial Fields
+BillingID,Invoice Number,Account & Financial Fields
+Ph_No,Phone Number,Contact Information Fields
+Mobile,Phone Number,Contact Information Fields
+Telephone,Phone Number,Contact Information Fields
+EmailAddr,Email Address,Contact Information Fields
+E_Mail,Email Address,Contact Information Fields
+Primary_Email,Email Address,Contact Information Fields
+Fax_No,Fax Number,Contact Information Fields
+Website_URL,Website,Contact Information Fields
+DOB,Date of Birth,Date & Time Fields
+BirthDate,Date of Birth,Date & Time Fields
+Birth_Dt,Date of Birth,Date & Time Fields
+Join_Date,Joining Date,Date & Time Fields
+HireDt,Joining Date,Date & Time Fields
+EmploymentStart,Joining Date,Date & Time Fields
+CreatedAt,Creation Date,Date & Time Fields
+Created_On,Creation Date,Date & Time Fields
+Reg_Date,Registration Date,Date & Time Fields
+Last_Login,Last Login Date,Date & Time Fields
+Updated_Timestamp,Last Updated Date,Date & Time Fields
+Active_Status,Account Status,Status & Flags
+Is_Active,Account Status,Status & Flags
+Acct_Status,Account Status,Status & Flags
+Closed_Flag,Account Status,Status & Flags
+Suspended_YN,Account Status,Status & Flags
+Blacklist_Flag,Account Status,Status & Flags
+KYC_Completed,KYC Status,Status & Flags
+KYC_Verified,KYC Status,Status & Flags
+Loan_Status,Application Status,Status & Flags
+OrderState,Order Status,Status & Flags
+Is_Paid,Payment Status,Status & Flags
+Order_ID,Order Number,Order & Product Fields
+OrderNum,Order Number,Order & Product Fields
+Sales_ID,Order Number,Order & Product Fields
+Invoice_ID,Invoice Number,Order & Product Fields
+Product_Code,Product ID,Order & Product Fields
+Prod_ID,Product ID,Order & Product Fields
+ItemNum,Product ID,Order & Product Fields
+CartID,Shopping Cart ID,Order & Product Fields
+OrderAmt,Order Amount,Order & Product Fields
+Total_Cost,Order Amount,Order & Product Fields
+Shipping_Addr,Shipping Address,Order & Product Fields
+ShipTo,Shipping Address,Order & Product Fields
+Delivery_Date,Expected Delivery Date,Order & Product Fields
+Shipped_On,Shipping Date,Order & Product Fields
+UserID,User ID,Authentication & Security Fields
+LoginID,User ID,Authentication & Security Fields
+AccntID,User ID,Authentication & Security Fields
+Pwd,Password,Authentication & Security Fields
+Passphrase,Password,Authentication & Security Fields
+Auth_Code,Authentication Code,Authentication & Security Fields
+OTP_Code,One-Time Password,Authentication & Security Fields
+Security_Ans,Security Answer,Authentication & Security Fields
+Pin_Code,PIN,Authentication & Security Fields
+Country_Code,Country,Miscellaneous Fields
+Nationality,Country,Miscellaneous Fields
+Region_Code,Region,Miscellaneous Fields
+Language_Pref,Preferred Language,Miscellaneous Fields
+Currency_Code,Currency,Miscellaneous Fields
+ISO_Curr,Currency,Miscellaneous Fields
+Gender_CD,Gender,Miscellaneous Fields
+Sex,Gender,Miscellaneous Fields
+Device_ID,Device Identifier,Miscellaneous Fields
+IP_Address,IP,Miscellaneous Fields
+MAC_Addr,MAC Address,Miscellaneous Fields
